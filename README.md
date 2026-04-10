@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/bn.png" alt="GhostTrack Banner" width="600"/>
-</p>
+
 
 # 👻 Piste fantome
 
