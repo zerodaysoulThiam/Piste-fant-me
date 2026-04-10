@@ -29,3 +29,9 @@ git clone https://github.com/HunxByts/GhostTrack.git
 cd GhostTrack
 pip3 install -r requirements.txt
 python3 GhostTR.py
+
+Features
+Menu	Description
+ IP Tracker	Track location by IP address
+ Phone Tracker	Search information from phone number
+ Username Tracker	Find social media accounts by username
