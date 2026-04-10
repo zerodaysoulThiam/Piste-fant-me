@@ -1,53 +1,33 @@
-# GhostTrack
-Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
+<p align="center">
+  <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/bn.png" alt="GhostTrack Banner" width="600"/>
+</p>
 
-<img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/bn.png"/>
+# 👻 Piste fantome
 
-New update :
-```Version 2.2```
+[![Version](https://img.shields.io/badge/version-2.2-blue.svg?style=for-the-badge)](https://github.com/HunxByts/GhostTrack)
+[![Python](https://img.shields.io/badge/python-3.7+-yellow.svg?style=for-the-badge&logo=python)](https://www.python.org/)
+[![OSINT](https://img.shields.io/badge/OSINT-Tool-green.svg?style=for-the-badge)](https://github.com/HunxByts/GhostTrack)
+[![Linux](https://img.shields.io/badge/Linux-supported-brightgreen.svg?style=for-the-badge&logo=linux)](https://www.linux.org/)
+[![Termux](https://img.shields.io/badge/Termux-supported-orange.svg?style=for-the-badge&logo=android)](https://termux.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-HunxByts-black.svg?style=for-the-badge&logo=github)](https://github.com/HunxByts)
+[![License](https://img.shields.io/badge/license-MIT-red.svg?style=for-the-badge)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/HunxByts/GhostTrack?style=for-the-badge&logo=github)](https://github.com/HunxByts/GhostTrack/stargazers)
+[![Forks](https://img.shields.io/github/forks/HunxByts/GhostTrack?style=for-the-badge&logo=github)](https://github.com/HunxByts/GhostTrack/network/members)
+[![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg?style=for-the-badge)](https://github.com/HunxByts)
 
-### Instalation on Linux (deb)
-```
-sudo apt-get install git
-sudo apt-get install python3
-```
+> **Useful tool to track location or mobile number - OSINT & Information Gathering Tool**
 
-### Instalation on Termux
-```
+## 📌 Latest Update : `Version 2.2`
+
+---
+
+## 🚀 Installation
+
+### 📱 Termux
+```bash
 pkg install git
 pkg install python3
-```
-
-### Usage Tool
-```
 git clone https://github.com/HunxByts/GhostTrack.git
 cd GhostTrack
 pip3 install -r requirements.txt
 python3 GhostTR.py
-```
-
-Display on the menu ```IP Tracker```
-
-<img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/ip.png " />
-
-on the IP Track menu, you can combo with the seeker tool to get the target IP
-<details>
-<summary>:zap: Install Seeker :</summary>
-- <strong><a href="https://github.com/thewhiteh4t/seeker">Get Seeker</a></strong>
-</details>
-
-Display on the menu ```Phone Tracker```
-
-<img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/phone.png" />
-
-on this menu you can search for information from the target phone number
-
-Display on the menu ```Username Tracker```
-
-<img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/User.png"/>
-on this menu you can search for information from the target username on social media
-
-<details>
-<summary>:zap: Author :</summary>
-- <strong><a href="https://github.com/HunxByts">HunxByts</a></strong>
-</details>
