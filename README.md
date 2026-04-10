@@ -1,6 +1,6 @@
 
 
-# 👻 Piste fantome
+#  Piste fantome
 
 [![Version](https://img.shields.io/badge/version-2.2-blue.svg?style=for-the-badge)](https://github.com/HunxByts/GhostTrack)
 [![Python](https://img.shields.io/badge/python-3.7+-yellow.svg?style=for-the-badge&logo=python)](https://www.python.org/)
@@ -15,13 +15,13 @@
 
 > **Useful tool to track location or mobile number - OSINT & Information Gathering Tool**
 
-## 📌 Latest Update : `Version 2.2`
+##  Latest Update : `Version 2.2`
 
 ---
 
-## 🚀 Installation
+##  Installation
 
-### 📱 Termux
+###  Termux
 ```bash
 pkg install git
 pkg install python3
